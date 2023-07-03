@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David Urbano
-- 👀 I’m interested in Design and web development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently improvinng my skills as Front-end developer
 
 <!---
